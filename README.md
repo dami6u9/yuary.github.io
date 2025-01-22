@@ -1,5 +1,3 @@
-Here's the revised version in English:
-
 **Welcome to my portfolio!**
 
 This project is a personal presentation where I showcase who I am, my projects, and how you can get in touch with me. I hope you enjoy exploring it as much as I enjoyed creating it.
